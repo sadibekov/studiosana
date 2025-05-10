@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: sadibekovnurali5@gmail.com
 description: "Independent video game studio from Kazakhstan."
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://sadibekov.github.io/studiosana"          # your host, for absolute URL
+url: "http://sadibekov.github.io"          # your host, for absolute URL
 baseurl: "/studiosana"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/sadibekov/studiosana.git" # you code repository
 
